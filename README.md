@@ -12,6 +12,12 @@ This is where ideas are been colated.
 
 - [Marketer](./Marketer.md)
 
+- [Farmer](./Farmer.md)
+
+- [Agent](./Agent.md)
+
+- [Farm Manager](./FarmManager.md)
+
 
 ### Products
 
@@ -20,6 +26,8 @@ This is where ideas are been colated.
 - [Content](./Content.md)
 
 - [Database](./Database.md)
+
+- [Funding](./Funding.md)
 
 ### Platforms 
 
@@ -64,4 +72,6 @@ Use https://docs.blockradar.co/essentials/integrations to create account. usdc w
 ### Problem 
 
 Market - lagos, abujah, port
-if news of flooding in north price go up. market union also decide price of farm product. 
+if news of flooding in north price go up. market union also decide price of farm product.
+
+nigeria looses over 45% of farm produce before it get to the market. cold chain, no preservation
