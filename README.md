@@ -27,6 +27,8 @@ This is where ideas are been colated.
 
 - [Database](./Database.md)
 
+- [Funding](./Funding.md)
+
 ### Platforms 
 
 - Web

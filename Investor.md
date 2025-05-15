@@ -2,6 +2,9 @@
 
 These are individual that come on the platform to invest their money on different product. 
 
+## Benefits
+- monitor profitering 
+
 ### Flow: 
 
 - select by plot that will be calculated
@@ -21,3 +24,8 @@ AWS of Farm. select region.
 ### Task:
 
 - Find a better name for them other than Lease.
+
+
+### Future
+
+Investors can decide to sell their product, they see a flow like monitoring ordering for a product. 
