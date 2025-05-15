@@ -29,6 +29,10 @@ This is where ideas are been colated.
 * If one is investor receive notification on plant growth
 * Use tinder style of swap right or left to assign price is left you prompted to enter new price. Ones location has to be on. And filling up the products they interested in.
 
+## Account
+
+Use https://docs.blockradar.co/essentials/integrations to create account. usdc will be used for transaction. 
+
 ## Dreams
 
 [Future](./Future.md)
