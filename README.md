@@ -16,6 +16,8 @@ This is where ideas are been colated.
 
 - [Agent](./Agent.md)
 
+- [Farm Manager](./FarmManager.md)
+
 
 ### Products
 
