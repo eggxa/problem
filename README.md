@@ -10,10 +10,16 @@ This is where ideas are been colated.
 
 - [Admin](./Admin.md)
 
+- [Marketer](./Marketer.md)
+
 
 ### Products
 
 - [Products](./Products.md)
+
+- [Content](./Content.md)
+
+- [Database](./Database.md)
 
 ### Platforms 
 
@@ -53,3 +59,9 @@ Use https://docs.blockradar.co/essentials/integrations to create account. usdc w
 1. bring the fund 
 2. we farm for you
 3. bring the farm product to you (subscription based for delivery)
+
+
+### Problem 
+
+Market - lagos, abujah, port
+if news of flooding in north price go up. market union also decide price of farm product. 
