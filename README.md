@@ -8,8 +8,20 @@ This is where ideas are been colated.
 
 - [Investor](./Investor.md)
 
+- [Admin](./Admin.md)
 
-## Platforms 
+- [Marketer](./Marketer.md)
+
+
+### Products
+
+- [Products](./Products.md)
+
+- [Content](./Content.md)
+
+- [Database](./Database.md)
+
+### Platforms 
 
 - Web
 
@@ -23,6 +35,33 @@ This is where ideas are been colated.
 * If one is investor receive notification on plant growth
 * Use tinder style of swap right or left to assign price is left you prompted to enter new price. Ones location has to be on. And filling up the products they interested in.
 
+## Account
+
+Use https://docs.blockradar.co/essentials/integrations to create account. usdc will be used for transaction. 
+
+## Products
+
+- realtime, public food pricing : use https://amis.co.ke/site/market as example. 
+
+
 ## Dreams
 
 [Future](./Future.md)
+
+
+### Tags of names
+
+- Bringing the gap between agriculture and you.
+- Let do the farming for you.
+- let farm together
+
+### How it work
+1. bring the fund 
+2. we farm for you
+3. bring the farm product to you (subscription based for delivery)
+
+
+### Problem 
+
+Market - lagos, abujah, port
+if news of flooding in north price go up. market union also decide price of farm product. 
