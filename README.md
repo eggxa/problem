@@ -33,6 +33,23 @@ This is where ideas are been colated.
 
 Use https://docs.blockradar.co/essentials/integrations to create account. usdc will be used for transaction. 
 
+## Products
+
+- realtime, public food pricing : use https://amis.co.ke/site/market as example. 
+
+
 ## Dreams
 
 [Future](./Future.md)
+
+
+### Tags of names
+
+- Bringing the gap between agriculture and you.
+- Let do the farming for you.
+- let farm together
+
+### How it work
+1. bring the fund 
+2. we farm for you
+3. bring the farm product to you (subscription based for delivery)
