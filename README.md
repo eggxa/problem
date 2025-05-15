@@ -12,6 +12,10 @@ This is where ideas are been colated.
 
 - [Marketer](./Marketer.md)
 
+- [Farmer](./Farmer.md)
+
+- [Agent](./Agent.md)
+
 
 ### Products
 
