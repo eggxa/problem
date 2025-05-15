@@ -8,8 +8,14 @@ This is where ideas are been colated.
 
 - [Investor](./Investor.md)
 
+- [Admin](./Admin.md)
 
-## Platforms 
+
+### Products
+
+- [Products](./Products.md)
+
+### Platforms 
 
 - Web
 
