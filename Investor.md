@@ -14,6 +14,8 @@ These are individual that come on the platform to invest their money on differen
 
 Dashboard to watch the growth of what you wanted
 
+They get updates, video updates, text updates, and also visit the farmers.
+
 ### How to invest
 
 business model
