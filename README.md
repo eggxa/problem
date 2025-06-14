@@ -18,6 +18,9 @@ This is where ideas are been colated.
 
 - [Farm Manager](./FarmManager.md)
 
+- [Farm Specialist](./FarmSpecialist.md)
+
+
 
 ### Products
 
