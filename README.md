@@ -78,3 +78,14 @@ Market - lagos, abujah, port
 if news of flooding in north price go up. market union also decide price of farm product.
 
 nigeria looses over 45% of farm produce before it get to the market. cold chain, no preservation
+
+
+
+| Products | Duration | Capital requirement | interest |
+|----|----| ---- | --- |
+| Cassava | 7 months | N217,000 | 40% ROI after 7 months |
+| Okro | 6 months | N302,000 | 50% ROI after 6 months |
+| Water melon | 6 months | N319,000 | 50% ROI after 6 months |
+| Sesame | 7 months | N128,00 | 60% ROI after 7 months |
+| Maize | 4 months | N131,000 | 25% ROI after 4 months | 
+| Pepper | 6 months | N121,000 | 50% ROI after 6 months | 
